@@ -11,6 +11,7 @@
 		1895146A2B5D2F950082356E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189514692B5D2F950082356E /* ContentView.swift */; };
 		1895146C2B5D2F9B0082356E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1895146B2B5D2F9B0082356E /* Assets.xcassets */; };
 		1895146F2B5D2F9B0082356E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1895146E2B5D2F9B0082356E /* Preview Assets.xcassets */; };
+		189514782B5D301C0082356E /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189514772B5D301C0082356E /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		189514692B5D2F950082356E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1895146B2B5D2F9B0082356E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1895146E2B5D2F9B0082356E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		189514772B5D301C0082356E /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				189514672B5D2F950082356E /* ScreenTransitionApp.swift */,
 				189514692B5D2F950082356E /* ContentView.swift */,
+				189514772B5D301C0082356E /* SecondView.swift */,
 				1895146B2B5D2F9B0082356E /* Assets.xcassets */,
 				1895146D2B5D2F9B0082356E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				189514782B5D301C0082356E /* SecondView.swift in Sources */,
 				1895146A2B5D2F950082356E /* ContentView.swift in Sources */,
 				189514682B5D2F950082356E /* ScreenTransitionApp.swift in Sources */,
 			);
